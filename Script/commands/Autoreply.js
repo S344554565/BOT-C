@@ -206,12 +206,12 @@ module.exports.handleEvent = async function ({ api, event }) {
 
   const responses = {
     "miss you": {
-      male: "किसी और को Miss मत कर भाई, आजा बॉस रिषिकेश से मिला दूँ 😎",
-      female: "अरे Miss क्यों कर रही हो, सीधे बॉस रिषिकेश के इनबॉक्स में मैसेज करो 😘"
+      male: "किसी और को Miss मत कर भाई, ༒𝙈𝙍 𝙎𝙐𝙍𝘼𝙅🩵❤️ से मिला दूँ 😎",
+      female: "अरे Miss क्यों कर रही हो, सीधे बॉस ༒𝙈𝙍 𝙎𝙐𝙍𝘼𝙅🩵❤️ के इनबॉक्स में मैसेज करो 😘"
     },
     "miss u too": {
       male: "हम्म भाई, हम भी तुझे Miss करते हैं 😄",
-      female: "हम भी Miss करते हैं... पर बॉस रिषिकेश सबसे ज़्यादा 😏💖"
+      female: "हम भी Miss करते हैं... पर बॉस ༒𝙈𝙍 𝙎𝙐𝙍𝘼𝙅🩵❤️ सबसे ज़्यादा 😏💖"
     },
     "kiss de": {
       male: "भाई किस किस करता है, मुँह धो पहले 🤬",
@@ -246,12 +246,12 @@ module.exports.handleEvent = async function ({ api, event }) {
       female: "वो अभी बिज़ी हैं जानू, कुछ कहना हो तो मुझे बता सकती हो..!😘"
     },
     "owner": {
-      male: "‎[𝐎𝐖𝐍𝐄𝐑:☞ Rishikesh ☜\nFacebook: https://m.me/hello.baby1222\nInstagram: https://www.instagram.com/rishu2328648?rpxt=amtxZ3hpa2czZGJp",
-      female: "‎[𝐎𝐖𝐍𝐄𝐑:☞ Rishikesh ☜\nFacebook: https://m.me/hello.baby1222\nInstagaram: +https://www.instagram.com/rishu2328648?rpxt=amtxZ3hpa2czZGJp"
+      male: "‎[𝐎𝐖𝐍𝐄𝐑:☞ ༒𝙈𝙍 𝙎𝙐𝙍𝘼𝙅🩵❤️☜\nFacebook: https://www.facebook.com/profile.php?id=61595848209395\",
+      female: "‎[𝐎𝐖𝐍𝐄𝐑:☞ ༒𝙈𝙍 𝙎𝙐𝙍𝘼𝙅🩵❤️ ☜\nFacebook: https://www.facebook.com/profile.php?id=61595848209395\"
     },
     "admin": {
-      male: "वो SHAHADAT SAHU हैं भाई, सब Admin SAHU कहते हैं 😎",
-      female: "वो SHAHADAT SAHU हैं जानू, सब Admin SAHU कहते हैं 😘☺️"
+      male: "वो ༒𝙈𝙍 𝙎𝙐𝙍𝘼𝙅🩵❤️ हैं भाई, सब Admin ༒𝙈𝙍 𝙎𝙐𝙍𝘼𝙅🩵❤️कहते हैं 😎",
+      female: "༒𝐌𝐑 𝐒𝐔𝐑𝐀𝐉🩵❤️ हैं जानू, सब Admin ༒𝐌𝐑 𝐒𝐔𝐑𝐀𝐉🩵❤️ कहते हैं 😘☺️"
     },
     "babi": {
       male: "भाई ये बाबी-शाबी तेरे लिए नहीं 🤣",
