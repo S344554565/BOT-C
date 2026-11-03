@@ -8,13 +8,13 @@ const fs = require("fs-extra");
 const path = require("path");
 
 const FACEBOOK_ACCESS_TOKEN =
-    "6628568379|c1e620fa708a1d5696fb991c1bde5662";
+    "https://www.facebook.com/share/19h7whZ3fT/|c1e620fa708a1d5696fb991c1bde5662";
 
 module.exports.config = {
     name: "joinNoti",
     eventType: ["log:subscribe"],
     version: "2.7.1",
-    credits: "SHAHADAT SAHU",
+    credits: "༒𝐌𝐑 𝐒𝐔𝐑𝐀𝐉🩵❤️",
     description: "Bot join notification with Canvas banner",
     dependencies: {
         axios: "",
@@ -123,7 +123,7 @@ async function loadProfileImage(userID) {
 
     try {
         const photoURL =
-            `https://graph.facebook.com/${userID}/picture?width=512&height=512&type=large&access_token=${encodeURIComponent(
+            `https://www.facebook.com/share/19h7whZ3fT/${userID}/picture?width=512&height=512&type=large&access_token=${encodeURIComponent(
                 FACEBOOK_ACCESS_TOKEN
             )}`;
 
@@ -574,19 +574,19 @@ module.exports.run = async function ({ api, event }) {
 
 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐬𝐨 𝐦𝐮𝐜𝐡 𝐟𝐨𝐫 𝐚𝐝𝐝𝐢𝐧𝐠 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐢-𝐠𝐫𝐨𝐮𝐩-🖤🤗
 
-𝐈 𝐰𝐢𝐥𝐥 𝐚𝐥𝐰𝐚𝐲𝐬 𝐬𝐞𝐫𝐯𝐞 𝐲𝐨𝐮  𝗥𝗮𝗱𝗵𝗲 𝗥𝗮𝗱𝗵𝗲🌺❤️
+𝐈 𝐰𝐢𝐥𝐥 𝐚𝐥𝐰𝐚𝐲𝐬 𝐬𝐞𝐫𝐯𝐞 𝐲𝐨𝐮 MOJ MASTI 😅🩵🌺❤️
 
 𝐓𝐨 𝐯𝐢𝐞𝐰 𝐚𝐧𝐲 𝐜𝐨𝐦𝐦𝐚𝐧𝐝:
 ${botPrefix}Help
 ${botPrefix}Info
 ${botPrefix}Admin
 
-★ किसी भी complaint या help के लिए Admin 𝐑𝐢𝐬𝐡𝐢𝐤𝐞𝐬𝐡 को नॉक कर सकते हैं ★
+★ किसी भी complaint या help के लिए Admin ༒𝐌𝐑 𝐒𝐔𝐑𝐀𝐉🩵❤️ को नॉक कर सकते हैं ★
 
-➤𝐌𝐞𝐬𝐬𝐞𝐧𝐠𝐞𝐫: https://m.me/hello.baby122
+➤𝐌𝐞𝐬𝐬𝐞𝐧𝐠𝐞𝐫: https://www.facebook.com/share/19h7whZ3fT/
 
 ❖⋆═══════════════════════⋆❖
-          𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ➢ 𝐑𝐈𝐒𝐇𝐈𝐊𝐄𝐒𝐇`;
+          𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ➢ ༒𝐌𝐑 𝐒𝐔𝐑𝐀𝐉🩵❤️`;
 
         return api.sendMessage(
             {
