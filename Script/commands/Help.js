@@ -8,7 +8,7 @@ module.exports.config = {
   usePrefix: true,
   version: "2.2.2",
   hasPermssion: 0,
-  credits: "RISHIKESH",
+  credits: "༒𝙈𝙍 𝙎𝙐𝙍𝘼𝙅🩵❤️",
   description: "Shows all commands with details",
   commandCategory: "system",
   usages: "[command name/page number]",
