@@ -422,15 +422,15 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
       "बोलो भाई, क्या चाहिए? 😎",
       "हट बेड़ा 😾, Boss बोल बॉस 😼",
       "चुप रह भाई, वरना दाँत तोड़ दूँगा 😾",
-      "भाई लड़की हो तो बॉस ऋषिकेश के इनबॉक्स में चली जा 🌚😂 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://m.me/hello.baby1222"
+      "भाई लड़की हो तो बॉस MR SURAJ के इनबॉक्स में चली जा 🌚😂 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://www.facebook.com/share/1Q4mTwfCcN/"
     ];
 
     const greetingsFemale = [
       "इतना मत बुलाओ जानू, प्यार में पड़ जाऊँगा 🙈",
-      "बोलो बाबू, तुम मेरे बॉस ऋषिकेश से प्यार करती हो? 🙈💋",
+      "बोलो बाबू, तुम मेरे बॉस MR SURAJ से प्यार करती हो? 🙈💋",
       "हट बेड़ी 😾, Boss बोल बॉस 😼",
       "चुप रहो जानू, वरना दाँत तोड़ दूँगा 😾",
-      "जानू लड़की हो तो बॉस ऋषिकेश के इनबॉक्स में चली जाओ 🌚 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://m.me/hello.baby1222"
+      "जानू लड़की हो तो बॉस MR SURAJ के इनबॉक्स में चली जाओ 🌚 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://www.facebook.com/share/1Q4mTwfCcN/"
     ];
 
     // Sirf Hindi/English trigger check karega
