@@ -981,7 +981,7 @@ async function createBanner({
   ctx.fillText(
     String(
       botName ||
-      "SHAHADAT CHAT BOT"
+      "❤️ 𓆩̬̬̬̬̬̬̬̬̬̬̬̯̯̯̑̑̑̑̑̑̑̑̑̑̑̑̑ 𝐌𝐑 𝐒𝐔𝐑𝐀𝐉 🩵❤️ BOT"
     ),
     WIDTH / 2,
     700
