@@ -1,10 +1,10 @@
 ✦ MESSENGER MIRAI CHATBOT FOEK ✦
 
-❖ अपने मैसेंजर को एक कदम आगे ले जाएं! अधिक स्मार्ट, आसान और आधुनिक Messenger Experience के लिए उपयोग करें SHAHADAT CHAT BOT — आपके मैसेंजर के लिए एक Powerful Multi-Device Bot!
+❖ अपने मैसेंजर को एक कदम आगे ले जाएं! अधिक स्मार्ट, आसान और आधुनिक Messenger Experience के लिए उपयोग करें ༒𝙈𝙍 𝙎𝙐𝙍𝘼𝙅🩵❤️CHAT BOT — आपके मैसेंजर के लिए एक Powerful Multi-Device Bot!
 
-अस्सलामु अलैकुम सभी को! — SHAHADAT CHAT BOT Fork में आपका स्वागत है!
+JAI  BHEEM 🩵 सभी को! — ༒𝙈𝙍 𝙎𝙐𝙍𝘼𝙅🩵❤️CHAT BOT Fork में आपका स्वागत है!
 
-SHAHADAT CHAT BOT — Developed By SHAHADAT SAHU
+ ༒𝙈𝙍 𝙎𝙐𝙍𝘼𝙅🩵❤️CHAT BOT — Developed By ༒𝙈𝙍 𝙎𝙐𝙍𝘼𝙅🩵❤️
 
 Node.js 20.x • Messenger Bot • License: MIT
 
