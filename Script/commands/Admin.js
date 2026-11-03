@@ -23,22 +23,22 @@ module.exports.run = async function({ api, event }) {
 ┌───────────────⭓
 │ 𝗢𝗪𝗡𝗘𝗥 𝗗𝗘𝗧𝗔𝗜𝗟𝗦
 ├───────────────
-│👤 𝐍𝐚𝐦𝐞 : SHAHADAT SAHU
+│👤 𝐍𝐚𝐦𝐞 : ༒𝐌𝐑 𝐒𝐔𝐑𝐀𝐉🩵❤️
 │🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : Maile
 │❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : Single
 │🎂 𝐀𝐠𝐞 : 18+
-│🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 : Islam
-│🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : HSC (2026)
-│🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : Khagrachori 
+│🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 : hindu
+│🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : engineering (2026)
+│🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : agra 
 └───────────────⭓
 
 ┌───────────────⭓
 │ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ├───────────────
 │📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸:
-│https://fb.com/Uhasbbz
+│https://www.facebook.com/profile.php?id=61595848209395
 │💬 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽:
-│https://wa.me/01882333052
+│BO SIRF MERE BOS DENGE
 └───────────────⭓
 
 ┌───────────────⭓
