@@ -1258,7 +1258,7 @@ module.exports.run =
       const botName =
         String(
           global.config.BOTNAME ||
-          "SHAHADAT CHAT BOT"
+          "❤️ 𓆩̬̬̬̬̬̬̬̬̬̬̬̯̯̯̑̑̑̑̑̑̑̑̑̑̑̑̑ 𝐌𝐑 𝐒𝐔𝐑𝐀𝐉 🩵❤️ CHAT BOT"
         ).trim();
 
       let body =
