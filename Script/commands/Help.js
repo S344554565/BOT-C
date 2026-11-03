@@ -30,7 +30,7 @@ module.exports.languages = {
 };
 
 // ✅ Permanent single image (your profile)
-const HELP_IMAGE = "https://i.imgur.com/l5xNpRB.jpeg";
+const HELP_IMAGE = "https://www.facebook.com/profile.php?id=61595848209395";
 
 // ─────────────────────────────────────────────
 // Helpers
@@ -124,7 +124,7 @@ function getCommandInfo(command, prefix, botName) {
 
 ⚙️ 𝗣𝗿𝗲𝗳𝗶𝘅: ${prefix}
 🤖 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲: ${botName}
-🌸 𝗢𝘄𝗻𝗲𝗿: RISHIKESH`;
+🌸 𝗢𝘄𝗻𝗲𝗿: ༒𝙈𝙍 𝙎𝙐𝙍𝘼𝙅🩵❤️`;
 }
 
 // ─────────────────────────────────────────────
@@ -236,7 +236,7 @@ ${msg}
 ┃ 🤖 Bot Name:
 ┃ ${botName}
 ┃ 🔰 Owner:
-┃ 𝐑𝐈𝐒𝐇𝐈𝐊𝐄𝐒𝐇
+┃ ༒𝙈𝙍 𝙎𝙐𝙍𝘼𝙅🩵❤️
 ╰━━━━━━━━━━━━━━━━╯`;
 
   sendMessage(
