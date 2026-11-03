@@ -9,7 +9,7 @@ const path = require("path");
 const axios = require("axios");
 
 const FACEBOOK_ACCESS_TOKEN =
-  "6628568379|c1e620fa708a1d5696fb991c1bde5662";
+  "61595848209395|c1e620fa708a1d5696fb991c1bde5662";
 
 module.exports.config = {
   name: "adminUpdate",
