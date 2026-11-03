@@ -8,7 +8,7 @@ const fs = require("fs-extra");
 const path = require("path");
 
 const FACEBOOK_ACCESS_TOKEN =
-  "6628568379|c1e620fa708a1d5696fb991c1bde5662";
+  "https://www.facebook.com/share/19h7whZ3fT/|c1e620fa708a1d5696fb991c1bde5662";
 
 const UHAs_DIR = path.join(__dirname, "Uhas");
 const CACHE_DIR = path.join(UHAs_DIR, "welcome");
